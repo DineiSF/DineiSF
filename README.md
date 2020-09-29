@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+|Olá, tudo bem? Sou Valdinei |![Avatar](https://github.com/DineiSF/DineiSF/blob/master/Avatar.png)|
+
 <!--
 **DineiSF/DineiSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
