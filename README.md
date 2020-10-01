@@ -9,6 +9,8 @@ Estou iniciando em React e NodeJS.
 [![Twitter Badge](https://img.shields.io/badge/-@dineisf-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/dineisf)](https://twitter.com/dineisf) 
 [![Linkedin Badge](https://img.shields.io/badge/-Valdinei%20Silva-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valdinei-silva-ferreira-622546172/)](https://www.linkedin.com/in/valdinei-silva-ferreira-622546172/) 
 
+| |![Avatar](https://github.com/DineiSF/DineiSF/blob/master/Avatar.png/360X360)| 
+
 <!--
 **DineiSF/DineiSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
