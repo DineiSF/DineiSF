@@ -5,10 +5,9 @@ Sou técnico em informática e atualmente estou migrando para
 à área de desenvolvimento, sendo mais especifico para a parte de Front-end.
 Estou iniciando em React e NodeJS.
 
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdineisf"/> |
-
-
-![Avatar](https://github.com/DineiSF/DineiSF/blob/master/Avatar.png)|
+[![Gmail Badge](https://img.shields.io/badge/-dinei.manji@gmail.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@dineisf-1DA1F2?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dineisf)](https://twitter.com/dineisf) 
+[![Linkedin Badge](https://img.shields.io/badge/-Valdinei%20Silva-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valdinei-silva-ferreira-622546172/)](https://www.linkedin.com/in/valdinei-silva-ferreira-622546172/) 
 
 <!--
 **DineiSF/DineiSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
