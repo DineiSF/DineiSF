@@ -5,7 +5,7 @@ Sou técnico em informática e atualmente estou migrando para
 à área de desenvolvimento, sendo mais especifico para a parte de Front-end.
 Estou iniciando em React e NodeJS.
 
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdineisf/> |
+<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdineisf"/> |
 
 
 ![Avatar](https://github.com/DineiSF/DineiSF/blob/master/Avatar.png)|
