@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, tudo bem? Prazer me chamo Valdinei
+Olá, tudo bem? Prazer me chamo Valdinei mas pode me chamar de Dinei!
 Sou técnico em informática e atualmente estou migrando para
 à área de desenvolvimento, sendo mais especifico para a parte de Front-end.
 Estou iniciando em React e NodeJS.
