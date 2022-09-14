@@ -5,17 +5,12 @@
 Hi, I'm Valdinei, but you can just say Dinei, yeah my name it can be difficult to remember
 
 Oh right, who am i?
-Brazilian, electronics and Computer Technician autonomous for 12 year old and currently migrate to developer, specifically front-end for now.
-I have studied
- 
-- HTML
-- CSS
-- Javascript
-
+Brazilian, electronics and Computer Technician autonomous for 12 year old and currently I migrated to developer, specifically back-end for now.
 <hr>
 
-I have looking for pick a framework best for me, I like and React.JS but I have interest for Angular too, but I don't know, maybe React...
-React Native? oohh yeah i want studie! in reality I am studying sporadically, I respect the front-end roadmap
+Currently I working with Oracle, Delphi(legacy app) and I have studyng JAVA.
+
+But! I like for work with more techlogies 
 
 <hr>
 
