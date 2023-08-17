@@ -1,24 +1,21 @@
-<h3 align="center">Hi there! I'm Valdinei</h1>
+<h3 align="center">Who's there?</h1>
 
 <br>
 
-Hi, I'm Valdinei, but you can just say Dinei, yeah my name it can be difficult to remember
+Hey hi!!! <br>
+I'm Vadinei, yeah my name's very difficult to remember or pronounce, everybody call me Dinei!
 
-Oh right, who am i?
-Brazilian, electronics and Computer Technician autonomous for 12 year old and currently I migrated to developer, specifically back-end for now.
+Ok! Who am I ? <br>
+Brazilian, electronics and Computer Technician autonomous for 12 years old, now I'am back-end developer.
 <hr>
 
-Currently I working with Oracle, Delphi(legacy app) and I have studyng JAVA.
-
-But! I like for work with more techlogies 
+Currently I working with Oracle and Delphi (support for legacy app)
 
 <hr>
 
 <h5 align="center"> Contact me for question, conversations ou anything
 
 <p>
-
-
 
 
 <!--
