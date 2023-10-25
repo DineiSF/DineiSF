@@ -10,6 +10,8 @@ Brazilian, electronics and Computer Technician autonomous for 12 year old and cu
 
 Currently I working with Oracle, Delphi(legacy app) and I have studyng JAVA.
 
+Just's revert test
+
 But! I like for work with more techlogies 
 
 <hr>
