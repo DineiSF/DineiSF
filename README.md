@@ -8,7 +8,7 @@ Oh right, who am i?
 Brazilian, electronics and Computer Technician autonomous for 12 year old and currently I migrated to developer, specifically back-end for now.
 <hr>
 
-Currently I working with Oracle, Delphi(legacy app) and I have studyng JAVA.
+Currently I working with Oracle, Delphi(legacy app) and I have studyng another things.
 
 But! I like for work with more techlogies 
 
