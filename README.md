@@ -26,7 +26,6 @@ But! I like for work with more techlogies
 
 Here are some ideas to get you started:
 
-teste1
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
